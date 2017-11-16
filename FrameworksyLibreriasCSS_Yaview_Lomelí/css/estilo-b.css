@@ -1,0 +1,55 @@
+body
+{
+  background: url('../images/bootstrap/piano.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+section
+{
+  background:  rgba(250,244,227, 0.5);
+  padding: 2rem;
+}
+
+nav a {
+  padding: .2rem 0 !important;
+  color: gray;
+  text-decoration: none;
+}
+nav a:hover {
+  border-bottom: solid 1px gray;
+  text-decoration: none;
+  color: gray;
+}
+header
+{
+  background: white;
+  width: 100%;
+  position: relative;
+  top: 0px;
+  margin-top: 0px !important;
+
+}
+.ico{
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  line-height: 3rem;
+}
+.hi
+{
+  margin-top: 12rem;
+}
+.redes a
+{
+  padding: .7rem;
+  color: gray;
+  border: solid 1px gray;
+  transition: all .5s;
+  margin-top: 20rem;
+}
+.redes a:hover
+{
+  color: white;
+  background: gray;
+  text-decoration: none;
+  border-radius: 5px;
+}

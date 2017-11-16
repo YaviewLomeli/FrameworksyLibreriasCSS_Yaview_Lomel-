@@ -1,0 +1,85 @@
+body
+{
+  background: url('../images/foundation/fondo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+header
+{
+  font-family: Lobster;
+  background: white;
+  background: #33D823 !important;
+  color: black;
+}
+
+article
+{
+  background: rgba(250,244,227, 0.8);
+}
+
+a
+{
+  color: #0C8600;
+}
+
+a:hover
+{
+  color: #073B02 !important;
+}
+
+.logo{
+  font-size: 3rem;
+}
+
+
+.chat-square
+{
+  border:solid 1px green;
+  color: rgba(0, 165, 0, 0.9);
+  font-size: 12px;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  background: white;
+}
+
+.margin
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.margin-l
+{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.img-responsive
+{
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+.hollow
+{
+  border-color: #0C8600 !important;
+  color: #0C8600 !important;
+}
+
+.hollow:hover
+{
+  color: white !important;
+  border-color: white !important;
+  background-color:#0C8600 !important;
+}
+.btn-green
+{
+  background-color: #073B02 !important;
+}
+.btn-green:hover
+{
+  background-color:#0C8600 !important;
+}
